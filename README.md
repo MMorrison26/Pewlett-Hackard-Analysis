@@ -19,5 +19,6 @@ When considering how many roles needs to be filled, we have to remember that reg
 The amount of employees eligible for the mentorship program are drastically less than the estimated number of roles that will need to be filled. The good news is training and onboarding can be done in groups or classes. It doesn't all need to be one-on-one mentoring. Even taking that into consideration, however, that leaves about 58 new hires per mentor to take under their wing. Some employees can be promoted within the company, which can reduce the training hours and hand-holding required, but the company may want to consider hiring sooner rather than later to take advantage of the retiring employees while they're still here to mentor and train.
 
 As far as additional queries that might help with this transition, it might be useful to know the tenure of the employees staying with the company who aren't eligible for retirement. This gives an idea if there are employees who have been with the company less than 1 year that might still require closer supervision versus employees who are established and might be able to step to help mentor even if they were born after 1965. <br /> 
-![image](https://user-images.githubusercontent.com/87578449/135730389-ce5b889c-23ac-4d21-8d2d-4ca99b01f678.png)
+<br /> 
+![query 1](https://user-images.githubusercontent.com/87578449/135730467-2a219afd-56a4-4a30-aa8f-5f114a335a15.png)
 
