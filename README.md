@@ -22,3 +22,6 @@ As far as additional queries that might help with this transition, it might be u
 <br /> 
 ![query 1](https://user-images.githubusercontent.com/87578449/135730467-2a219afd-56a4-4a30-aa8f-5f114a335a15.png)
 
+One other query that might be useful to Hewlett Packard is one that shows a breakdown specifically looking at leadership roles that will be vacant. Those departments could use an extra heads up about management level positions that need to be filled in addition to the basic, entry-level positions that don't require as much prior knowledge due to the extensive new hire training available from the ground up.
+
+Hewlett Packard is smart to be thinking ahead, and we wish them luck as they prepare for this significant season in the company's history!
