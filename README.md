@@ -8,10 +8,10 @@ In considering how many positions will be available given the upcoming "silver t
 * The Senior Staff (31%) and Senior Engineer (32%) titles account for roughly two thirds of the retirees.
 * Luckily, only 2 "Managers" are retiring, so there can be necessary focus to replace those roles while solid leadership remains in place.
 
-Figure A:
-![image](https://user-images.githubusercontent.com/87578449/135729198-4143464b-20c6-42ac-b112-594b2eb1546f.png)
-Figure B:
-![image](https://user-images.githubusercontent.com/87578449/135729224-1e61ce24-7808-46ad-9219-6ced0a56d658.png)
+Figure A: <br /> 
+![image](https://user-images.githubusercontent.com/87578449/135729198-4143464b-20c6-42ac-b112-594b2eb1546f.png) <br /> 
+Figure B: <br /> 
+![image](https://user-images.githubusercontent.com/87578449/135729224-1e61ce24-7808-46ad-9219-6ced0a56d658.png) <br /> 
 
 ### *Summary*
 
